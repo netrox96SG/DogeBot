@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Pga ff" width="170" />
+<img src="https://media1.tenor.com/images/0a1dc9c5d22b2457a32b8fc74df562c1/tenor.gif?itemid=23630192" width="250" height="300.8072289156626" alt="PGA FF" width="170" />
 
-## Doge Bot
+##  PGA~BOT
+
 
 </div>
 
