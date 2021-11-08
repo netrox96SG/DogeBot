@@ -29,9 +29,22 @@
 ## `ADD BUILDPACK`
 
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+https://github.com/jayshreeanand/heroku-buildpack-libwebp.git
+
 ```
 
+```
+
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+```
+
+```
+
+https://github.com/nrj/heroku-buildpack-imagemagick-webp
+
+```
 ## `CHANGE SESSION`
 
 [`Click Here`](https://github.com/PGA-FF/pgabot/blob/master/session.json#L1)
