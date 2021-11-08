@@ -16,7 +16,7 @@ const fetch = require("node-fetch");
 const moment = require("moment-timezone");
 blocked = [];
 const { color } = require('./lib/color')
-const time2 = moment().tz("Asia/Jakarta").format("HH:mm:ss");
+const time2 = moment().tz("Asia/Kolkata").format("HH:mm:ss");
     if (time2 < "24:59:00") {
       var ucapanWaktu = "Good night";
     }
@@ -101,7 +101,7 @@ console.log(color(`${spc4}< ================================================== >
     console.log(color('⎇','red'), color('𝙄 𝙬𝙧𝙤𝙩𝙚 𝙩𝙝𝙞𝙨 𝙨𝙘𝙧𝙞𝙥𝙩 𝙢𝙮𝙨𝙚𝙡𝙛!\n𝙉𝙤𝙩𝙚: 𝘿𝙤𝙣𝙩 𝙛𝙤𝙧𝙜𝙚𝙩 𝙩𝙤 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 Pga ff', 'yellow'))
     console.log(color('⎇','red'), color('𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻:', 'aqua'), color(version))
     console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/918617738028'))
-    console.log(color('[DOGE BOT]'), color('PGA~BOT 𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 ㋛︎', 'aqua'))
+    console.log(color('[PGA~BOT]'), color('PGA~BOT 𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 ㋛︎', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗕𝗮𝗰𝗸, 𝗢𝘄𝗻𝗲𝗿! 𝗛𝗼𝗽𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗗𝗼𝗶𝗻𝗴 𝗪𝗲𝗹𝗹~', 'magenta'))
     console.log(color('⎇','green'), color('𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩', 'white'))
   });
@@ -140,7 +140,7 @@ fkontakk = { key: {
     participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '918617738028-1604595598@g.us' } : {})
 },
  message: {
-    "contactMessage":{"displayName":'Pga ff',"vcard":"BEGIN:VCARD\nVERSION:3.0\nN:2;Xeon;;;\nFN:resku\nitem1.TEL;waid=918617738028:+91 690-9137-213\nitem1.X-ABLabel:Mobile\nEND:VCARD"
+    "contactMessage":{"displayName":'Pga ff',"vcard":"BEGIN:VCARD\nVERSION:3.0\nN:2;PGA FF;;;\nFN:resku\nitem1.TEL;waid=918617738028:+91 861-7738-028\nitem1.X-ABLabel:Mobile\nEND:VCARD"
  }}}
 metdata = await client.groupMetadata(anu.jid)
 if(anu.announce == 'false'){
