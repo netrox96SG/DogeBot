@@ -1,5 +1,5 @@
 // Script by Xeon 
-// 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
+// NETROX BOT 
 // ©Xeon Bot Incorporated
 const {
   WAConnection: _WAConnection,
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "916909137213"; 
-owner = "916909137213"; 
-fakeyoi = "Xeon"; 
+targetpc = "919776517392"; 
+owner = "919776517392"; 
+fakeyoi = "Mr soumya 😘"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@916909137213"; 
+nomorowner1 = "@919776517392"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
