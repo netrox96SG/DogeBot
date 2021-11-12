@@ -1,6 +1,6 @@
-// Script by Pga ff 
-// PGA~BOT
-// ©Pga Bot Incorporated
+// Script by Mr soumya
+// NETROX-BOT
+// ©NETROX Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "918617738028"; 
-owner = "918617738028"; 
-fakeyoi = "Pga ff"; 
+targetpc = "919776517392"; 
+owner = "919776517392"; 
+fakeyoi = "Mr soumya"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -144,7 +144,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@918617738028"; 
+nomorowner1 = "@919776517392"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
